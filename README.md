@@ -1,34 +1,97 @@
-# Devansh-Paltewar
-
-
+# 👋 Hi, I'm Devansh Paltewar
 
 <div align="center">
 
-<h2>🚀 Passionate about Data Science & AI </h2>
+## 🚀 Data Science | AI/ML | Data Engineering | Generative AI
+
+Passionate about building intelligent, data-driven solutions through AI, machine learning, and applied research.
 
 </div>
 
+- 💼 **Data Engineer – DTO Intern @ Infocepts**
+- 🧠 Interested in AI, Deep Learning, Generative AI, and Research
+- 📊 Experienced in time-series forecasting, RAG pipelines, and machine learning
+- 🤝 Open to collaborating on AI/ML and data engineering projects
+- 🌐 **Portfolio:** [devanshpaltewar.vercel.app](https://devanshpaltewar.vercel.app)
+- 📧 **Email:** [devanshpaltewar2005@gmail.com](mailto:devanshpaltewar2005@gmail.com)
+- 💼 **LinkedIn:** [Devansh Paltewar](https://linkedin.com/in/devansh-paltewar-981b8829a)
 
+---
 
-👋 Hi, I’m @DevanshPaltewar
+## 💼 Experience
 
-🧠 Interested in AI, Deep Learning & Research-based Problem Solving
+### Data Engineer – DTO Intern | Infocepts
+*Present*
 
-📊 Passionate about Data Science and application-oriented projects
+- Working on data engineering, cloud automation, and Generative AI solutions.
+- Performing SQL-based data exploration and analysis.
+- Developing LLM applications and workflows using LangChain, LiteLLM, and other AI frameworks.
 
-🤝 Open to collaborating on AI & Deep Learning projects
+### AI/ML Developer | DevUnite
+*July 2026 – 2026*
 
-Portfolio:https://devanshpaltewar.vercel.app
-📧 Contact:
- devanshpaltewar2005@gmail.com
+- Developed Retrieval-Augmented Generation (RAG) pipelines using embeddings, vector databases, and LLMs for semantic search and contextual responses.
+- Built and optimized machine learning workflows involving data preprocessing, feature engineering, and predictive modeling.
 
+### AI Researcher | ALDC, MSETCL (MAHATRANSCO)
+*March 2025 – 2026*
+
+- Completed a government consultancy project on electricity load forecasting using SCADA and AMR smart-meter data.
+- Processed 100,000+ records through data preprocessing, anomaly correction, and missing-value handling.
+- Developed and evaluated deep learning models, including LSTM, BiLSTM, Transformer, and TCN, for multi-horizon forecasting.
+- Collaborated with power system engineers to evaluate forecasting performance and practical applicability.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Top 20 Finalist — IIT Kharagpur Data Science Hackathon among 9,913+ teams.
+- 📄 Research paper accepted at ICSCCC 2026, NIT Jalandhar (IEEE).
+- 🎓 Accepted at the IndoML Undergraduate Forum, BITS Pilani.
+- 🏅 Third Prize — HacKronyX Hackathon.
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** Python, SQL, C, C++
+
+**Data Science & ML:** Pandas, NumPy, Scikit-learn, Statistical Analysis, Feature Engineering, Time-Series Forecasting
+
+**Deep Learning:** PyTorch, TensorFlow, LSTM, CNN, Transformers
+
+**Generative AI:** LLMs, RAG, LangChain, LangGraph, LiteLLM, Embeddings, Vector Databases
+
+**Data Engineering:** SQL, Data Processing, ETL Workflows, Cloud Automation
+
+**Tools:** Git, GitHub, Jupyter Notebook
+
+---
+
+## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/devansh-paltewar-981b8829a" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"/>
+  <a href="https://linkedin.com/in/devansh-paltewar-981b8829a">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
-</p>>
+  <a href="https://github.com/DevanshPaltewar">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  </a>
+  <a href="https://devanshpaltewar.vercel.app">
+    <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Portfolio"/>
+  </a>
+</p>
+
+## ⚡ Technologies I Work With
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,sklearn,pytorch,tensorflow,git" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,pytorch,tensorflow,sklearn,git,github,linux" />
 </p>
+
+---
+
+<div align="center">
+
+### 💡 Building at the intersection of Data, AI, and Research.
+
+</div>
