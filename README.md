@@ -45,10 +45,11 @@ Passionate about building intelligent, data-driven solutions through AI, machine
 
 ## 🏆 Achievements
 
-- 🥇 Top 20 Finalist — IIT Kharagpur Data Science Hackathon among 9,913+ teams.
-- 📄 Research paper accepted at ICSCCC 2026, NIT Jalandhar (IEEE).
-- 🎓 Accepted at the IndoML Undergraduate Forum, BITS Pilani.
-- 🏅 Third Prize — HacKronyX Hackathon.
+-BITS Pilani (IndoML 2025) |Second rank at research proposal presenter at IndoML 2025
+-HacKronyX Hackathon (National Level) |Third Prize
+-IIT Kharagpur National Data Science Hackathon |Top 20 National Finalist (Ranked 20/9,913+)
+-Stellar Ragnarok, Nagpur |Third Position
+-Dataverse, SVPCET | First Position
 
 ---
 
