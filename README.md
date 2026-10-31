@@ -46,9 +46,13 @@ Passionate about building intelligent, data-driven solutions through AI, machine
 ## 🏆 Achievements
 
 -BITS Pilani (IndoML 2025) |Second rank at research proposal presenter at IndoML 2025
+
 -HacKronyX Hackathon (National Level) |Third Prize
+
 -IIT Kharagpur National Data Science Hackathon |Top 20 National Finalist (Ranked 20/9,913+)
+
 -Stellar Ragnarok, Nagpur |Third Position
+
 -Dataverse, SVPCET | First Position
 
 ---
